@@ -12,7 +12,7 @@
 ## 📸 Screenshots
 
 ### Start Screen
-![Start Screen](demo/home.png)
+![Start Screen](demo/menu.png)
 
 ### Options menu
 ![options](demo/options.png)

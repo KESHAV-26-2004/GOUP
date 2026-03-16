@@ -238,7 +238,7 @@ This project demonstrates:
 
 # 👨‍💻 Author
 
-**Keshav Verma**
+**Keshav**
 B.Tech CSE – Bennett University
 Game Developer | Software Developer
 
